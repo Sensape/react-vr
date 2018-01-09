@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "ovrui": "~2.0.0",
-    "three-gltf2-loader": "git+ssh://git@github.com:Sensape/three-gltf2-loader.git#dev"
+    "three-gltf2-loader": "git+https://github.com/Sensape/three-gltf2-loader.git#dev"
   }
 }
